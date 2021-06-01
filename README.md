@@ -30,17 +30,17 @@ In the project directory, you can run:
 ### The URLs in DataEngineer_CodeChallenge_Input.csv are disabled, 
 ### and I already grouped all the URLs in rebuild_data.csv.
 
-3. Here are the URLs which are disabled:
+1. Here are the URLs which are disabled:
 
    - group 1: 1 URL
    - group 9: 5 URLs
    - group 12: 3 URLs
    - group 21: 4 URLs
 
-1. Here are the URLs which points to the same page:
+2. Here are the URLs which points to the same page:
    - id: 125 and id: 126 are pointing to the same page
 
-2. Here are the URLs which I couldn't crawl:
+3. Here are the URLs which I couldn't crawl:
    - group 24: 10 URLs
 
 ## Total Input and Output (200 / 176) 

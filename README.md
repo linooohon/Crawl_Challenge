@@ -26,6 +26,10 @@ In the project directory, you can run:
 7. Then, `results.csv` will show up
 
 
+## Built With:
+- Python: Scrapy
+
+
 ## Static Files:
 - rebuild_data.csv (Grouping DataEngineer_CodeChallenge_Input.csv)
      - Run `python read_files.py` , to get `rebuild_data.csv`

@@ -13,21 +13,22 @@ In the project directory, you can run:
 
 ##### 1. Go to  CrawlChallenge/CrawlChallenge/
 
-##### 2. run `python go.py` 
+##### 2. Run `python go.py` 
 
-##### 3. then, `results.csv` will show up
+##### 3. Then, `results.csv` will show up
 
 
 ## Static Files:
 - rebuild_data.csv (Grouping DataEngineer_CodeChallenge_Input.csv)
-##### run `python read_files.py` , to get `rebuild_data.csv`
+#####   - Run `python read_files.py` , to get `rebuild_data.csv`
 
 - results.json (Run multiple spiders in single file)
 
 
 ## Problem:
 
-### the URLs in DataEngineer_CodeChallenge_Input.csv are disabled, and I already grouped all the URLs in rebuild_data.csv
+### The URLs in DataEngineer_CodeChallenge_Input.csv are disabled, 
+### and I already grouped all the URLs in rebuild_data.csv.
 
 #### Here are the URLs which are disabled:
 

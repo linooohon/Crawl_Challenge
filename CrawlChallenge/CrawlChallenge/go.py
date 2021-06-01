@@ -1,7 +1,7 @@
 
 # @Author  : Phil
 # @File    : go.py
-# @job     : run all spiders, export csv file: "results.csv"
+# @Job     : Run all spiders, exporting csv file: "results.csv"
 
 from scrapy.utils.project import get_project_settings
 from scrapy.crawler import CrawlerProcess

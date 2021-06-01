@@ -11,16 +11,16 @@
 
 In the project directory, you can run:
 
-### 1. Go to  CrawlChallenge/CrawlChallenge/
+##### 1. Go to  CrawlChallenge/CrawlChallenge/
 
-### 2. run `python go.py` 
+##### 2. run `python go.py` 
 
-### 3. then, `results.csv` will show up
+##### 3. then, `results.csv` will show up
 
 
 ## Static Files:
 - rebuild_data.csv (Grouping DataEngineer_CodeChallenge_Input.csv)
-### run `python read_files.py` to get `rebuild_data.csv`
+##### run `python read_files.py` , to get `rebuild_data.csv`
 
 - results.json (Run multiple spiders in single file)
 

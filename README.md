@@ -46,5 +46,7 @@ In the project directory, you can run:
 ## Total Input and Output (200 / 176) 
 200 - (1 + 5 + 3 + 4 + 1 + 10) = 176
 
-Input: 200 URLs
-Output Result: 176 URLs, authors, socail media links
+
+### Due to the problems above:
+- Input: 200 URLs
+- Output Result: 176 URLs, authors, socail media links

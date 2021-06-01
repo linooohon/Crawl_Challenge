@@ -11,19 +11,19 @@
 
 In the project directory, you can run:
 
-##### -. Clone the project
+1. Clone the project
 
-##### -. Under CrawlChallenge/, and run `python3 -m venv venv` : for building environments
+2. Under CrawlChallenge/, and run `python3 -m venv venv` : for building environments
 
-##### -. Run `source ./venv/bin/activate`
+3. Run `source ./venv/bin/activate`
 
-##### -. Run `pip3 install -r requirements.txt`
+4. Run `pip3 install -r requirements.txt`
 
-##### -. Go to  CrawlChallenge/CrawlChallenge/
+5. Go to  CrawlChallenge/CrawlChallenge/
 
-##### -. Run `python go.py` 
+6. Run `python go.py` 
 
-##### -. Then, `results.csv` will show up
+7. Then, `results.csv` will show up
 
 
 ## Static Files:

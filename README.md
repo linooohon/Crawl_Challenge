@@ -11,11 +11,19 @@
 
 In the project directory, you can run:
 
-##### 1. Go to  CrawlChallenge/CrawlChallenge/
+##### -. Clone the project
 
-##### 2. Run `python go.py` 
+##### -. Under CrawlChallenge/, and run `python3 -m venv venv` : for building environments
 
-##### 3. Then, `results.csv` will show up
+##### -. Run `source ./venv/bin/activate`
+
+##### -. Run `pip3 install -r requirements.txt`
+
+##### -. Go to  CrawlChallenge/CrawlChallenge/
+
+##### -. Run `python go.py` 
+
+##### -. Then, `results.csv` will show up
 
 
 ## Static Files:
